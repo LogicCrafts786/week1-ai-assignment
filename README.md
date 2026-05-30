@@ -7,7 +7,7 @@ Name:Shaik Asma Siddiqua
 Roll Number: 24JR1A0530 
 
 ## Project Description
-This repository contains Python programs, API tasks, reports, and screenshots submitted for the Week 1 AI Assignment.
+This repository contains Python programs, 🚀 Week 1 AI Portfolio Project featuring Smart Student Assistant, API & JSON integration, AI concepts, prompt engineering, and GitHub best practices.
 
 ## Files
 - main.py
