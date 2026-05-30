@@ -12,5 +12,6 @@ This repository contains Python programs, API tasks, reports, and screenshots su
 ## Files
 - main.py
 - api_task.py
+- assets.txt
 - report.pdf
 - screenshots
