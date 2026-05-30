@@ -12,6 +12,10 @@ This repository contains Python programs, 🚀 Week 1 AI Portfolio Project featu
 ## Files
 - main.py
 - api_task.py
+- screenshots
+  -project_report.jpg
+  -api_output.jpg
 - assets.txt
 - report.pdf
-- screenshots
+- prompts.pdf
+  
